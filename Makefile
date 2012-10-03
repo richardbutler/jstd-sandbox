@@ -1,4 +1,4 @@
-TEST_DRIVER_PORT = 42442
+TEST_DRIVER_PORT = 9876
 
 jstd:
 	@java \
